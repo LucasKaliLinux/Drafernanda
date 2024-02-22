@@ -15,4 +15,4 @@ O que Você Pode Encontrar Neste Projeto:
 * informações sobre o nosso percurso de aprendizado e prática no desenvolvimento front-end.
 
 # A Ausência de Back-End:
-Neste momento, o projeto se concentra exclusivamente no desenvolvimento front-end. Não há necessidade de funcionalidades complexas de back-end aqui, já que nosso principal objetivo é mostrar nossas habilidades de design e criar uma homenagem significativa.
+Neste momento, o projeto se concentra exclusivamente no desenvolvimento front-end.
